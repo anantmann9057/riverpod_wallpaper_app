@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "314785126550",
+    "project_id": "river-pod-practise",
+    "storage_bucket": "river-pod-practise.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314785126550:android:09470e2e75cb1b8d090ab7",
+        "android_client_info": {
+          "package_name": "riverpod.river_pod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314785126550-e01esbpmroi8et83f78d5oegv7tmvvct.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "riverpod.river_pod",
+            "certificate_hash": "a9eb3e727a1849f8031f0102c7380effb8e57505"
+          }
+        },
+        {
+          "client_id": "314785126550-2qhmbkft7e74i6mu0utet0no8dvbkfen.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0Yqwrloqa_nnX4yCpj7VSaRqikA3Bqg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314785126550-2qhmbkft7e74i6mu0utet0no8dvbkfen.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "314785126550-d2hrqg6156iseb9p6fi2ihjkvgq59sba.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "riverpod.riverPod"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
